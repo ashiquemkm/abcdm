@@ -1,0 +1,20 @@
+
+            body{
+                background: magenta;
+            }
+            button{
+                background: red;
+            }
+            tr{
+                background: yellow;
+            }
+            .mytr{
+                background: blue;
+            }
+            #mytr1{
+                background: green;
+                                }
+            #but1{
+                background: chartreuse;
+            }
+
